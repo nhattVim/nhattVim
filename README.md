@@ -5,12 +5,12 @@
 ## :package: Languages & Tools
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,html,css,linux,git,github,neovim)]()
 
-## :sparkles: GitHub Stats :
+## :sparkles: GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=nhattruongNeoVim&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nhattruongNeoVim&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nhattruongNeoVim&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+## :trophy: GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=nhattruongNeoVim&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## :dizzy: Random Dev Quote
