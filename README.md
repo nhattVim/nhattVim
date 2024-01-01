@@ -2,7 +2,7 @@
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/nhattruong.le.3745496) 
 
-## 🧰Languages & Tools
+## :package: Languages & Tools
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,html,css,linux,git,github,neovim)]()
 
 ## :sparkles: GitHub Stats :
