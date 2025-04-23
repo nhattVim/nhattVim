@@ -3,7 +3,8 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/nhattruong.le.3745496) 
 
 ## :package: Languages & Tools
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,html,css,linux,git,github,neovim,docker)]()
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,markdown,cpp,cs,react,express,nodejs,net,mui,tailwindcss,mongodb)]()
+[![My Skills](https://skillicons.dev/icons?i=unity,git,github,docker,figma,linux,ubuntu,arch,neovim)]()
 
 ## :sparkles: GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=nhattVim&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
