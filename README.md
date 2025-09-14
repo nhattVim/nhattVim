@@ -8,7 +8,6 @@
 ## :sparkles: GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=nhattVim&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://readme-streak-stats.vercel.app/?user=nhattVim&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nhattVim&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## :trophy: GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=nhattVim&theme=radical&no-frame=false&no-bg=false&margin-w=4)
