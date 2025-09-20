@@ -6,9 +6,9 @@
 [![My Skills](https://skillicons.dev/icons?i=unity,git,github,docker,figma,linux,ubuntu,arch,neovim)]()
 
 ## :sparkles: GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=nhattVim&theme=radical&hide_border=false&include_all_commits=false&count_private=false&cache_seconds=86400)<br/>
+![](https://github-readme-stats.vercel.app/api?username=nhattVim&theme=radical&show_icons=true&include_all_commits=true&cache_seconds=86400)<br/>
 ![](https://readme-streak-stats.vercel.app/?user=nhattVim&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nhattVim&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=86400)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nhattVim&theme=radical&layout=compact&cache_seconds=86400)
 
 ## :trophy: GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=nhattVim&theme=radical&no-frame=false&no-bg=false&margin-w=4)
